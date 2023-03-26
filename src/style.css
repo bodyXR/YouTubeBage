@@ -1,0 +1,43 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: x-large;
+}
+body {
+  overflow-wrap: break-word;
+  /* width: 900px; */
+  background-color: #e5e5e5;
+}
+.title {
+  font-weight: bold;
+  margin-top: 250px;
+  font-size: xx-large;
+}
+.centerd {
+  text-align: center;
+}
+.para {
+  margin-top: 30px;
+  font-weight: 400;
+}
+.btn {
+  margin-left: 605px;
+  margin-top: 20px;
+  background-color: #4d5b9e;
+  border: #4d5b9e solid 2px;
+  border-radius: 15px;
+  padding: 15px;
+  color: #f5f7fb;
+  font-size: 30;
+}
+.answer {
+  border-radius: 7.71px;
+  border: 2px solid #4d5b9e;
+  padding: 10px 15px;
+  display: inline-block;
+  margin: 10px;
+  background-color: #fff;
+}
+/*  */
